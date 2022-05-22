@@ -10,7 +10,7 @@
 |  过拟合  |                   |
 |  过拟合  | Fast-AutoAugment  |
 |         |                   |
-| 类别倾斜 |                   |
+| 类别倾斜 | Borderline-SMOTE  |
 | 类别倾斜 | Self-paced Ensemble |
 |         |                   |
 |  脏标签  | GCE-Loss          |
