@@ -1,0 +1,10 @@
+epoch= 5 [train] loss=1.3756 top1=0.7335 [test] loss=0.6706 top1=0.7742 
+epoch=10 [train] loss=0.9237 top1=0.8027 [test] loss=0.4805 top1=0.8423 
+epoch=15 [train] loss=0.8172 top1=0.8320 [test] loss=0.3991 top1=0.8671 
+epoch=20 [train] loss=0.7608 top1=0.8515 [test] loss=0.3260 top1=0.8893 
+epoch=25 [train] loss=0.7038 top1=0.8687 [test] loss=0.2868 top1=0.9067 
+epoch=30 [train] loss=0.6254 top1=0.8915 [test] loss=0.2690 top1=0.9103 
+epoch=35 [train] loss=0.5496 top1=0.9099 [test] loss=0.2353 top1=0.9237 
+epoch=40 [train] loss=0.4527 top1=0.9342 [test] loss=0.1943 top1=0.9364 
+epoch=45 [train] loss=0.3548 top1=0.9602 [test] loss=0.1823 top1=0.9443 
+epoch=50 [train] loss=0.2837 top1=0.9781 [test] loss=0.1452 top1=0.9583 
