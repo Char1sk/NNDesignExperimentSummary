@@ -11,7 +11,7 @@
 |  过拟合  | Fast-AutoAugment  |
 |         |                   |
 | 类别倾斜 |                   |
-| 类别倾斜 |                   |
+| 类别倾斜 | Self-paced Ensemble |
 |         |                   |
 |  脏标签  | GCE-Loss          |
 |  脏标签  | MD-DYR-SH  |
