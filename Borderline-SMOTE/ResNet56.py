@@ -1,16 +1,3 @@
-'''
-别人的代码
-name      | layers | params
-ResNet20  |    20  | 0.27M
-ResNet32  |    32  | 0.46M
-ResNet44  |    44  | 0.66M
-ResNet56  |    56  | 0.85M
-
-Reference:
-[1] Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-    Deep Residual Learning for Image Recognition. arXiv:1512.03385
-[2] https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py
-'''
 
 import torch.nn as nn
 import torch.nn.functional as F

@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author  : Fraunhofer0126
-# @Time    : 2022/03/22
 
 import os
 import numpy as np
